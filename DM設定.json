@@ -72,16 +72,6 @@
   "file": "DM文面/作り方_もしも.txt"
  },
  {
-  "key": "k03",
-  "keywords": [
-   "風船",
-   "ふうせん",
-   "フウセン"
-  ],
-  "file": "DM文面/風船.txt",
-  "shortcode": "Df74SNBACLH"
- },
- {
   "key": "k16",
   "keywords": [
    "光",
@@ -192,7 +182,8 @@
    "ふうせん",
    "フウセン"
   ],
-  "file": "DM文面/風船.txt"
+  "file": "DM文面/風船.txt",
+  "shortcode": "DgJ_G7EBfPp"
  },
  {
   "key": "k17n",
