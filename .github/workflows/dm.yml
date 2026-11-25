@@ -1,0 +1,50 @@
+name: DM自動返信
+on:
+  schedule:
+    - cron: '17 * * * *'   # 毎時17分（UTC）
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: dm
+  cancel-in-progress: false
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: 記録を開く
+        env:
+          LOG_KEY: ${{ secrets.LOG_KEY }}
+        run: |
+          set -e
+          for f in DM送信ログ.csv 返信ログ.csv; do
+            if [ -f "$f.enc" ]; then
+              openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -pass env:LOG_KEY -in "$f.enc" -out "$f"
+              cp "$f" "$f.prev"
+            fi
+          done
+      - name: 送る
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_HOURLY_PICKED: '1'
+          TZ: Asia/Tokyo
+        run: python DM自動返信.py --send || echo "rc=$?"
+      - name: 記録を閉じて戻す
+        env:
+          LOG_KEY: ${{ secrets.LOG_KEY }}
+        run: |
+          set -e
+          for f in DM送信ログ.csv 返信ログ.csv; do
+            [ -f "$f" ] || continue
+            if [ -f "$f.prev" ] && cmp -s "$f" "$f.prev"; then continue; fi
+            openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -pass env:LOG_KEY -in "$f" -out "$f.enc"
+          done
+          git config user.name "dm-bot"
+          git config user.email "dm-bot@users.noreply.github.com"
+          git add -- *.csv.enc 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "送信の記録 $(date -u +%FT%TZ)" && git pull --rebase && git push)

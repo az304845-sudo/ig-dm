@@ -1,0 +1,9 @@
+コメントありがとう！「富士山→東京駅の滑り台」の指示文です。
+
+【画像のAI：最初のコマ】
+First-person view on the snowy summit rim of Mount Fuji, early morning. From my feet, a long straight polished stainless-steel half-pipe slide runs gently downhill over a sea of white clouds, shrinking to a thin line toward a tiny hazy city on the horizon. Clear blue sky.
+
+【動画のAI（Kling）：動かす】
+Slow steady push-in along the polished steel slide toward the sea of clouds, clouds drifting slowly. Photoreal documentary footage, natural light, no people, no text.
+
+コツ：先に最初のコマを画像で作り、それを動画のAIで動かすと見た目がそろいます。

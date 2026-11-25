@@ -1,0 +1,10 @@
+フォローありがとう☔ 確認できました。
+フォロワー30人ちょっとのときに出して80万再生になった、雨の動画の作り方です。
+
+▶手順書（計算・Blenderで場面を作る・VOICEVOXの声。各段で Claude Code に渡す指示つき）
+https://yuma-ai-works.pages.dev/s/ame2.md
+
+空のフォルダで Claude Code を開いて、この1行を貼るところから始まります。
+https://yuma-ai-works.pages.dev/s/ame2.md を curl で 手順書.md に保存して、全部読んでから、〔作りたい題材〕で同じ型の動画を作って
+
+※パソコンで Blender と VOICEVOX を使います。Claude Code は有料です。同じ型で作っても、同じ再生数になるとは限りません。

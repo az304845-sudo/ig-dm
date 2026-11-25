@@ -1,0 +1,9 @@
+コメントありがとう！「宇宙から鉄アレイを落としたら」で使った指示文です。
+
+【画像のAI：宇宙の場面】
+400 km above Japan, in black space. Below the dumbbell, the curved Earth: the Japanese archipelago in daylight with Tokyo Bay and Mount Fuji visible far below, thin blue atmosphere line on the horizon. The dumbbell is lit by hard sunlight from the left.
+
+【画像のAI：地面の場面】
+Ground level close-up: the same 10 kg dumbbell lies half-embedded in light-gray granite paving stones, with a ring of radial cracks around it. NO crater, NO explosion, NO fire, NO smoke. Low camera angle, daylight.
+
+コツ：計算した答え（ひびが入るだけ）に合わせて、画像のAIに「爆発させない」とはっきり書くと、大げさな画になりません。

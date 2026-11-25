@@ -1,0 +1,4 @@
+コメントありがとうございます。1行で解説アニメになる、Claude Code のスキル6つの全文です。
+https://yuma-ai-works.pages.dev/s/k18.md
+
+ページの「入れ方」の1行を Claude Code に貼ると、6つまとめて入ります。あとは「/xray 〔題〕」のように1行で頼むだけです。作業はパソコンで、Claude Code は有料です。
