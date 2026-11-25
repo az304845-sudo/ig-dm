@@ -193,5 +193,14 @@
   ],
   "file": "DM文面/城.txt",
   "shortcode": "DgKQkrJpyLA"
+ },
+ {
+  "key": "r16",
+  "keywords": [
+   "海",
+   "うみ"
+  ],
+  "file": "DM文面/海.txt",
+  "shortcode": "DgKYCmdSKJg"
  }
 ]
