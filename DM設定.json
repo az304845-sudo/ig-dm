@@ -182,7 +182,8 @@
    "坂",
    "さか"
   ],
-  "file": "DM文面/坂.txt"
+  "file": "DM文面/坂.txt",
+  "shortcode": "DgJvsChJs_D"
  },
  {
   "key": "k29n",
@@ -190,7 +191,8 @@
    "客船",
    "きゃくせん"
   ],
-  "file": "DM文面/客船.txt"
+  "file": "DM文面/客船.txt",
+  "shortcode": "DgJzdTMtSmm"
  },
  {
   "key": "k28n",
@@ -207,5 +209,42 @@
    "ふね"
   ],
   "file": "DM文面/舟.txt"
+ },
+ {
+  "key": "k03n",
+  "keywords": [
+   "風船",
+   "ふうせん",
+   "フウセン"
+  ],
+  "file": "DM文面/風船.txt"
+ },
+ {
+  "key": "k17n",
+  "keywords": [
+   "3d",
+   "3D",
+   "３Ｄ"
+  ],
+  "file": "DM文面/3D.txt"
+ },
+ {
+  "key": "k11n",
+  "keywords": [
+   "掛け算",
+   "かけ算",
+   "かけざん",
+   "カケザン",
+   "掛算"
+  ],
+  "file": "DM文面/k11_掛け算.txt"
+ },
+ {
+  "key": "k13n",
+  "keywords": [
+   "カメラ",
+   "かめら"
+  ],
+  "file": "DM文面/カメラ.txt"
  }
 ]
