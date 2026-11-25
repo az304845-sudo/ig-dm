@@ -149,15 +149,6 @@
   "shortcode": "DgI_o8miPbV"
  },
  {
-  "key": "k28",
-  "keywords": [
-   "間取り",
-   "まどり"
-  ],
-  "file": "DM文面/間取り.txt",
-  "shortcode": "DgJNZthT6SJ"
- },
- {
   "key": "k30",
   "keywords": [
    "イチョウ",
@@ -191,7 +182,8 @@
    "間取り",
    "まどり"
   ],
-  "file": "DM文面/間取り.txt"
+  "file": "DM文面/間取り.txt",
+  "shortcode": "DgJ3cfDo7BO"
  },
  {
   "key": "k25n",
