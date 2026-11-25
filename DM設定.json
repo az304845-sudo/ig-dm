@@ -140,15 +140,6 @@
   "shortcode": "DgG0pzFGS0H"
  },
  {
-  "key": "k25",
-  "keywords": [
-   "舟",
-   "ふね"
-  ],
-  "file": "DM文面/舟.txt",
-  "shortcode": "DgI_o8miPbV"
- },
- {
   "key": "k30",
   "keywords": [
    "イチョウ",
@@ -191,7 +182,8 @@
    "舟",
    "ふね"
   ],
-  "file": "DM文面/舟.txt"
+  "file": "DM文面/舟.txt",
+  "shortcode": "DgJ7PRrBln7"
  },
  {
   "key": "k03n",
