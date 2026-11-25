@@ -81,37 +81,6 @@
   "file": "DM文面/光.txt"
  },
  {
-  "key": "k11",
-  "keywords": [
-   "掛け算",
-   "かけ算",
-   "かけざん",
-   "カケザン",
-   "掛算"
-  ],
-  "file": "DM文面/k11_掛け算.txt",
-  "shortcode": "Df78KfXEsh7"
- },
- {
-  "key": "k13",
-  "keywords": [
-   "カメラ",
-   "かめら"
-  ],
-  "file": "DM文面/カメラ.txt",
-  "shortcode": "DgDSiAFFDAz"
- },
- {
-  "key": "k17",
-  "keywords": [
-   "3d",
-   "3D",
-   "３Ｄ"
-  ],
-  "file": "DM文面/3D.txt",
-  "shortcode": "DgERcCJmWxu"
- },
- {
   "key": "k18",
   "keywords": [
    "アニメ",
@@ -192,7 +161,8 @@
    "3D",
    "３Ｄ"
   ],
-  "file": "DM文面/3D.txt"
+  "file": "DM文面/3D.txt",
+  "shortcode": "DgJ_1FlzKml"
  },
  {
   "key": "k11n",
@@ -203,7 +173,8 @@
    "カケザン",
    "掛算"
   ],
-  "file": "DM文面/k11_掛け算.txt"
+  "file": "DM文面/k11_掛け算.txt",
+  "shortcode": "DgKANI5gdCl"
  },
  {
   "key": "k13n",
@@ -211,6 +182,7 @@
    "カメラ",
    "かめら"
   ],
-  "file": "DM文面/カメラ.txt"
+  "file": "DM文面/カメラ.txt",
+  "shortcode": "DgKAptDhiGR"
  }
 ]
