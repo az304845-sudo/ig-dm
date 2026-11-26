@@ -156,16 +156,6 @@
   "shortcode": "DgJ_G7EBfPp"
  },
  {
-  "key": "k17n",
-  "keywords": [
-   "3d",
-   "3D",
-   "３Ｄ"
-  ],
-  "file": "DM文面/3D.txt",
-  "shortcode": "DgJ_1FlzKml"
- },
- {
   "key": "k11n",
   "keywords": [
    "掛け算",
@@ -203,5 +193,15 @@
   ],
   "file": "DM文面/海.txt",
   "shortcode": "DgKYCmdSKJg"
+ },
+ {
+  "key": "k17v2",
+  "keywords": [
+   "3d",
+   "3D",
+   "３Ｄ"
+  ],
+  "file": "DM文面/3D.txt",
+  "shortcode": "DgMBznOJRQi"
  }
 ]
