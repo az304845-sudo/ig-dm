@@ -14,6 +14,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # 頼んだ時点の古い記録でなく、最新の送信記録を読む（11/26 続けて頼んだ2回目が同じ人に二重送信した）
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
