@@ -145,17 +145,6 @@
   "shortcode": "DgJ7PRrBln7"
  },
  {
-  "key": "k03n",
-  "keywords": [
-   "風船",
-   "ふうせん",
-   "フウセン",
-   "風剣"
-  ],
-  "file": "DM文面/風船.txt",
-  "shortcode": "DgJ_G7EBfPp"
- },
- {
   "key": "k13n",
   "keywords": [
    "カメラ",
@@ -212,7 +201,8 @@
    "フウセン",
    "風剣"
   ],
-  "file": "DM文面/風船.txt"
+  "file": "DM文面/風船.txt",
+  "shortcode": "DgNuUkMBxIY"
  },
  {
   "key": "k32v2",
