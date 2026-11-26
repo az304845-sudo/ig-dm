@@ -156,18 +156,6 @@
   "shortcode": "DgJ_G7EBfPp"
  },
  {
-  "key": "k11n",
-  "keywords": [
-   "掛け算",
-   "かけ算",
-   "かけざん",
-   "カケザン",
-   "掛算"
-  ],
-  "file": "DM文面/k11_掛け算.txt",
-  "shortcode": "DgKANI5gdCl"
- },
- {
   "key": "k13n",
   "keywords": [
    "カメラ",
@@ -203,5 +191,17 @@
   ],
   "file": "DM文面/3D.txt",
   "shortcode": "DgMBznOJRQi"
+ },
+ {
+  "key": "k11v2",
+  "keywords": [
+   "掛け算",
+   "かけ算",
+   "かけざん",
+   "カケザン",
+   "掛算"
+  ],
+  "file": "DM文面/k11_掛け算.txt",
+  "shortcode": "DgMD6Bvou7V"
  }
 ]
