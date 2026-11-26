@@ -1,4 +1,4 @@
-コメントありがとう！「地球1周のひも」で使った指示文です。
+コメントありがとう！「地球1周のひも」で使ったプロンプトです。
 
 【画像のAI：東京駅から見上げたひも】
 Daytime, clear sky. Camera on the ground in the wide stone-paved plaza in front of a large red-brick early-20th-century railway station with domes, looking up at about 30 degrees, wide-angle lens. One single thin taut white rope runs in a perfectly STRAIGHT line from the top edge of the image (about 120 m up) down toward one point far away on the horizon. No other lines, no people, no text.

@@ -1,4 +1,4 @@
-コメントありがとう！「宇宙から鉄アレイを落としたら」で使った指示文です。
+コメントありがとう！「宇宙から鉄アレイを落としたら」で使ったプロンプトです。
 
 【画像のAI：宇宙の場面】
 400 km above Japan, in black space. Below the dumbbell, the curved Earth: the Japanese archipelago in daylight with Tokyo Bay and Mount Fuji visible far below, thin blue atmosphere line on the horizon. The dumbbell is lit by hard sunlight from the left.

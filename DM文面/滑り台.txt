@@ -1,4 +1,4 @@
-コメントありがとう！「富士山→東京駅の滑り台」の指示文です。
+コメントありがとう！「富士山→東京駅の滑り台」のプロンプトです。
 
 【画像のAI：最初のコマ】
 First-person view on the snowy summit rim of Mount Fuji, early morning. From my feet, a long straight polished stainless-steel half-pipe slide runs gently downhill over a sea of white clouds, shrinking to a thin line toward a tiny hazy city on the horizon. Clear blue sky.
