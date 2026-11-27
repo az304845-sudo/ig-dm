@@ -1,0 +1,4 @@
+コメントありがとうございます。2つのAIにコップの水を描かせた、同じプロンプトの全文です。
+https://yuma-ai-works.pages.dev/s/m04.md
+
+Claude Code に丸ごと貼ると、HTML 1枚で15秒の水の映像ができます。作業はパソコンで、Claude Code は有料です。
