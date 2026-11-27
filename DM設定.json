@@ -213,5 +213,23 @@
   ],
   "file": "DM文面/坂_v2.txt",
   "shortcode": "DgP1D-CSVCA"
+ },
+ {
+  "key": "k30v2d",
+  "keywords": [
+   "桜",
+   "さくら",
+   "サクラ"
+  ],
+  "file": "DM文面/桜.txt",
+  "shortcode": "DgP-6SOBn7R"
+ },
+ {
+  "key": "k25v2c",
+  "keywords": [
+   "舟",
+   "ふね"
+  ],
+  "file": "DM文面/舟.txt"
  }
 ]
