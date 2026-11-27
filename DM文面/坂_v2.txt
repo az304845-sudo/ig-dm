@@ -1,0 +1,4 @@
+コメントありがとうございます。金の板が坂を転がるたびに角が増えて、三角形からコインになるループ動画の作り方（プロンプト全文）です。
+https://yuma-ai-works.pages.dev/s/k33v2.md
+
+Claude Code に Blender の Python を書いてもらい、Blender（無料）で描き出します。画像・動画の生成AIは使いません。作業はパソコンで、Claude Code は有料です。
