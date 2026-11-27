@@ -154,15 +154,6 @@
   "shortcode": "DgKAptDhiGR"
  },
  {
-  "key": "k32",
-  "keywords": [
-   "城",
-   "しろ"
-  ],
-  "file": "DM文面/城.txt",
-  "shortcode": "DgKQkrJpyLA"
- },
- {
   "key": "r16",
   "keywords": [
    "海",
@@ -205,12 +196,13 @@
   "shortcode": "DgNuUkMBxIY"
  },
  {
-  "key": "k32v2",
+  "key": "k32v2d",
   "keywords": [
    "城",
    "しろ"
   ],
-  "file": "DM文面/城.txt"
+  "file": "DM文面/城.txt",
+  "shortcode": "DgPlM5SNVmh"
  },
  {
   "key": "k28v6",
