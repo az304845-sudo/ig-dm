@@ -90,15 +90,6 @@
   "shortcode": "DgJzdTMtSmm"
  },
  {
-  "key": "k25n",
-  "keywords": [
-   "舟",
-   "ふね"
-  ],
-  "file": "DM文面/舟.txt",
-  "shortcode": "DgJ7PRrBln7"
- },
- {
   "key": "k13n",
   "keywords": [
    "カメラ",
@@ -220,6 +211,7 @@
    "舟",
    "ふね"
   ],
-  "file": "DM文面/舟.txt"
+  "file": "DM文面/舟.txt",
+  "shortcode": "DgP_9I6OiDd"
  }
 ]
