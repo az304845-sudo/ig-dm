@@ -91,15 +91,6 @@
   "shortcode": "DgJr26mzqtL"
  },
  {
-  "key": "k33",
-  "keywords": [
-   "坂",
-   "さか"
-  ],
-  "file": "DM文面/坂.txt",
-  "shortcode": "DgJvsChJs_D"
- },
- {
   "key": "k29n",
   "keywords": [
    "客船",
@@ -220,6 +211,7 @@
    "坂",
    "さか"
   ],
-  "file": "DM文面/坂_v2.txt"
+  "file": "DM文面/坂_v2.txt",
+  "shortcode": "DgP1D-CSVCA"
  }
 ]
