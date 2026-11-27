@@ -81,24 +81,6 @@
   "file": "DM文面/光.txt"
  },
  {
-  "key": "k18",
-  "keywords": [
-   "アニメ",
-   "あにめ"
-  ],
-  "file": "DM文面/アニメ.txt",
-  "shortcode": "DgGRscJEbKC"
- },
- {
-  "key": "k24",
-  "keywords": [
-   "絵柄",
-   "えがら"
-  ],
-  "file": "DM文面/絵柄.txt",
-  "shortcode": "DgG0pzFGS0H"
- },
- {
   "key": "k30",
   "keywords": [
    "イチョウ",
@@ -125,15 +107,6 @@
   ],
   "file": "DM文面/客船.txt",
   "shortcode": "DgJzdTMtSmm"
- },
- {
-  "key": "k28n",
-  "keywords": [
-   "間取り",
-   "まどり"
-  ],
-  "file": "DM文面/間取り.txt",
-  "shortcode": "DgJ3cfDo7BO"
  },
  {
   "key": "k25n",
@@ -210,7 +183,8 @@
    "間取り",
    "まどり"
   ],
-  "file": "DM文面/間取り.txt"
+  "file": "DM文面/間取り.txt",
+  "shortcode": "DgPxtJUBd7T"
  },
  {
   "key": "k24v5",
@@ -218,7 +192,8 @@
    "絵柄",
    "えがら"
   ],
-  "file": "DM文面/絵柄_v5.txt"
+  "file": "DM文面/絵柄_v5.txt",
+  "shortcode": "DgPxX16GnZP"
  },
  {
   "key": "k04v5",
@@ -227,7 +202,8 @@
    "こーひー",
    "珈琲"
   ],
-  "file": "DM文面/コーヒー.txt"
+  "file": "DM文面/コーヒー.txt",
+  "shortcode": "DgPy0NkRxOV"
  },
  {
   "key": "k18v2f",
@@ -235,6 +211,7 @@
    "アニメ",
    "あにめ"
   ],
-  "file": "DM文面/アニメ_v2.txt"
+  "file": "DM文面/アニメ_v2.txt",
+  "shortcode": "DgPyZazBgeq"
  }
 ]
