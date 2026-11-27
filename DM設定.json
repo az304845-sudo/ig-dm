@@ -90,15 +90,6 @@
   "shortcode": "DgJzdTMtSmm"
  },
  {
-  "key": "k13n",
-  "keywords": [
-   "カメラ",
-   "かめら"
-  ],
-  "file": "DM文面/カメラ.txt",
-  "shortcode": "DgKAptDhiGR"
- },
- {
   "key": "r16",
   "keywords": [
    "海",
@@ -222,5 +213,14 @@
   ],
   "file": "DM文面/水.txt",
   "shortcode": "DgQFVRUOb9o"
+ },
+ {
+  "key": "k13v3d",
+  "keywords": [
+   "カメラ",
+   "かめら"
+  ],
+  "file": "DM文面/カメラ.txt",
+  "shortcode": "DgQMUY7KkUr"
  }
 ]
