@@ -231,5 +231,14 @@
    "カサ"
   ],
   "file": "DM文面/k12_傘.txt"
+ },
+ {
+  "key": "r17v4",
+  "keywords": [
+   "台風",
+   "たいふう"
+  ],
+  "file": "DM文面/台風.txt",
+  "shortcode": "DgRMChjolKs"
  }
 ]
